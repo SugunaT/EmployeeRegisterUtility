@@ -1,2 +1,4 @@
-package com.demo.project;public class EmployeeRegister {
+package com.demo.project;
+
+public class EmployeeRegister {
 }
